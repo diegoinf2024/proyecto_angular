@@ -1,0 +1,21 @@
+.work-container {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.work-container img.img-work {
+    width: 200px;
+    height: 200px;
+}
+
+.text-work {
+    margin-left: 3rem;
+}
+
+.text-work h5 {
+    font-size: 2.5rem;
+}
+
+.text-work .work-description {
+    font-size: 1.75rem;
+}

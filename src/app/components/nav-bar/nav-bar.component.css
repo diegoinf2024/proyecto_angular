@@ -1,0 +1,18 @@
+.navbar-container {
+    padding: 2rem 3rem;
+  }
+  
+  .navbar-right .social a {
+    display: inline-block; 
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+    color: #c13584; 
+  }
+  
+  .navbar-right .social a:hover {
+    transform: scale(1.2);
+    color: #e1306c;
+  }
+  
+  .navbar-right .social a:hover svg {
+    transform: scale(1.2);
+  }
